@@ -1,3 +1,13 @@
+
+#thescreengif.
+
+![EkranKayd2024-06-2523 10 16-ezgif com-video-to-gif-converter](https://github.com/1989zlm/AmazonNative/assets/146070651/505085d8-6b24-4566-82da-3debb3ec1388)
+
+
+
+
+
+
 npm install @react-navigation/native
 npm install react-native-screens react-native-safe-area-context
 npm install @react-navigation/stack
